@@ -1,0 +1,23 @@
+swagger: '2.0'
+
+info:
+  version: '2.0'
+  title: Corebine Content Core Schema
+  contact:
+    name: Omnigon Communications, LLC
+    url: http://www.omnigon.com/
+    email: support@omnigon.com
+
+host: core-content-dev.corebine.com
+
+basePath: /
+
+schemes:
+  - http
+  - https
+
+consumes:
+  - application/json
+
+produces:
+  - application/json
