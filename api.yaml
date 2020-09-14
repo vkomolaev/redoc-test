@@ -2,11 +2,10 @@ swagger: '2.0'
 
 info:
   version: '2.0'
-  title: Corebine Content Core Schema
+  title: test
   contact:
-    name: Omnigon Communications, LLC
-    url: http://www.omnigon.com/
-    email: support@omnigon.com
+    name: vitaly
+    email: vykont@gmail.com
 
 host: core-content-dev.corebine.com
 
